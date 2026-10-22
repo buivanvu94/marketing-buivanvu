@@ -18,7 +18,9 @@ Trạng thái: bản nháp để bạn duyệt. Mọi chỗ đánh dấu **[CẦ
 
 Dòng phụ: Bán khóa học, theo dõi học viên, chấm bài và cấp chứng chỉ trên một hệ thống chạy đúng quy trình của trung tâm. Bạn sở hữu mã nguồn, không phụ thuộc thuê bao hằng tháng.
 
-Nút chính: **Nhắn Zalo cho Vũ** (`https://zalo.me/0394296000`). Nút phụ: **Xem demo** (**[CẦN BẠN ĐIỀN]** đường dẫn demo).
+Nút chính: **Nhắn Zalo cho Vũ** (`https://zalo.me/0394296000`). Nút phụ: **Xem dự án đã làm** (cuộn tới mục "Dự án đã làm", gồm ba trang demo bên dưới).
+
+Gợi ý định vị: ba dự án thực tế là học viện và chuyên gia bán khóa học (bất động sản, quản trị doanh nghiệp, thương hiệu cá nhân), nên H1 có thể mở rộng thành "**cho trung tâm đào tạo và học viện**" để không bỏ sót nhóm khách này.
 
 ### Bạn đang gặp tình huống nào?
 
@@ -39,7 +41,7 @@ Tôi dựng hệ thống từ các thành phần dưới đây và chỉ làm ph
 - **Bình luận và phản hồi theo bài học:** học viên đặt câu hỏi ngay dưới bài.
 - **Tài liệu riêng tư:** bài nộp và tài liệu chỉ người có quyền mới tải được (đường dẫn có ký, hết hạn).
 - **Quản trị:** trang quản trị để bạn tự cập nhật nội dung, phân quyền người dùng (quản trị, giảng viên, học viên).
-- **Thanh toán:** tích hợp cổng thanh toán nội địa theo nhu cầu của trung tâm. **[CẦN BẠN ĐIỀN]** cổng nào bạn đã tích hợp được và nên ghi tên (ví dụ chuyển khoản tự đối soát, ví điện tử).
+- **Thanh toán:** tích hợp **SePay** để học viên chuyển khoản và hệ thống tự đối soát, mở quyền học khi tiền về. Các cổng khác (ví điện tử, thẻ) tích hợp theo nhu cầu, báo giá riêng. **[XÁC NHẬN]** SePay đang chạy ở dự án nào trong ba dự án bên dưới, để dùng làm bằng chứng.
 - **Chatbot hỗ trợ học viên:** trả lời câu hỏi thường gặp bằng chính nội dung khóa học. **[XÁC NHẬN]** đây là hạng mục thêm, báo giá riêng.
 
 Hệ thống chạy trên Next.js nên trang tải nhanh trên điện thoại và có nền tảng SEO để khóa học của bạn được tìm thấy trên Google.
@@ -67,7 +69,15 @@ Tôi báo giá theo phạm vi đã thống nhất bằng văn bản, bạn biế
 
 ### Dự án đã làm
 
-**[CẦN BẠN ĐIỀN]** 1-3 case study. Mỗi case dùng khung sau và chỉ ghi số liệu có thật:
+Ba trang bạn cung cấp (mô tả dưới đây lấy từ nội dung công khai của từng trang, chưa có số liệu kết quả):
+
+- **[hocbatdongsan.vn](https://hocbatdongsan.vn)**: nền tảng đào tạo bất động sản, gồm 4 học viện, giảng viên, nội dung học theo dự án đang triển khai và phản hồi của học viên.
+- **[bizmasi.vn](https://bizmasi.vn)**: Học viện Bizmasi, giải pháp quản trị cho doanh nghiệp; có công cụ đánh giá vận hành doanh nghiệp, kế hoạch hành động 7 ngày và khóa học dành cho chủ doanh nghiệp.
+- **[lyngochoa.vn](https://lyngochoa.vn)**: trang của coach Lý Ngọc Hoa về thương hiệu cá nhân, mạng xã hội và bán hàng cho môi giới; có khóa học, phản hồi và kết quả của học viên.
+
+**[CẦN BẠN ĐIỀN / XÁC NHẬN]** cho từng trang trước khi đăng: (1) bạn làm toàn bộ hay một phần, (2) tính năng LMS nào đang chạy thật (đăng nhập học viên, tiến độ, bài kiểm tra, chứng chỉ, thanh toán SePay), (3) khách có đồng ý được ghi tên và đặt link không, (4) con số kết quả nếu có (số học viên, số khóa, thời gian tiết kiệm). Không đăng tính năng hay con số chưa xác nhận.
+
+Mỗi case study chi tiết dùng khung sau và chỉ ghi số liệu có thật:
 
 - Khách hàng (tên hoặc "trung tâm đào tạo tiếng Anh tại ...", ghi rõ nếu ẩn danh).
 - Vấn đề ban đầu.
@@ -98,7 +108,7 @@ Nút: **Nhắn Zalo cho Vũ** | **Gọi 0394 296 000** (thứ 2 đến thứ 7, 
 
 ## Việc cần làm để đưa trang lên
 
-1. Bạn điền các mục **[CẦN BẠN ĐIỀN]** còn lại (case study, link demo, cổng thanh toán) và xác nhận các mục **[XÁC NHẬN]** (chứng chỉ, điểm danh Zoom, chatbot). Giá đã chốt: không công khai.
+1. Bạn xác nhận các mục **[CẦN BẠN ĐIỀN / XÁC NHẬN]** ở phần "Dự án đã làm" (vai trò, tính năng đang chạy, quyền ghi tên khách, số liệu), và các mục **[XÁC NHẬN]** (chứng chỉ, điểm danh Zoom, chatbot). Giá đã chốt: không công khai.
 2. Tạo trang trong CMS (Admin → Pages) với slug `lms-nextjs`, dùng các section có sẵn (Hero, PainPoints, ServicesSolutions, WorkProcess, FaqAccordion, ClosingCta). Lưu ý: cổng MCP của CMS chỉ tạo được **bài nháp** (`cms_create_post_draft`) và sửa SEO, **không tạo được trang có section**, nên trang này tạo bằng Admin → Pages (hoặc API REST `/api/pages/[id]/sections` với token không có scope MCP).
 3. Thêm liên kết tới trang từ mục dịch vụ ở trang chủ và menu.
 4. Sau khi xuất bản, gửi URL vào Search Console để yêu cầu lập chỉ mục.
