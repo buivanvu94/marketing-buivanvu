@@ -1,5 +1,7 @@
 # Nội dung trang `/lms-nextjs` (bản nháp)
 
+**Cập nhật 22/10/2026:** trang đã được tạo trong CMS ở trạng thái **nháp** (Admin → Pages → "LMS Next.js cho trung tâm đào tạo và học viện", slug `lms-nextjs`, id `e5dd03b2-0b3a-4641-8075-7a87ac5cdeaf`) gồm 7 section: hero, nỗi đau, hệ thống gồm những gì, dự án đã làm (3 trang demo có link), quy trình, hỏi đáp, kêu gọi. Theo xác nhận của chủ site: làm toàn bộ cả 3 dự án, SePay chạy ở cả 3, hệ thống có quiz, lớp học trực tiếp và chứng chỉ, không dùng con số, chưa có chatbot (nên đã bỏ chatbot khỏi trang). Bản trong CMS có thể khác bản mô tả bên dưới ở câu chữ; coi CMS là bản chính.
+
 Trạng thái: bản nháp để bạn duyệt. Mọi chỗ đánh dấu **[CẦN BẠN ĐIỀN]** là thông tin tôi không có và không tự bịa. Danh sách tính năng lấy từ LMS plugin thật trong repo `buivanvu-web` (mô hình dữ liệu và kế hoạch phase 4-5); mục nào chưa chắc đã đánh dấu **[XÁC NHẬN]**.
 
 ## SEO
