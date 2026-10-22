@@ -71,9 +71,11 @@ Tôi báo giá theo phạm vi đã thống nhất bằng văn bản, bạn biế
 
 Ba trang bạn cung cấp (mô tả dưới đây lấy từ nội dung công khai của từng trang, chưa có số liệu kết quả):
 
-- **[hocbatdongsan.vn](https://hocbatdongsan.vn)**: nền tảng đào tạo bất động sản, gồm 4 học viện, giảng viên, nội dung học theo dự án đang triển khai và phản hồi của học viên.
-- **[bizmasi.vn](https://bizmasi.vn)**: Học viện Bizmasi, giải pháp quản trị cho doanh nghiệp; có công cụ đánh giá vận hành doanh nghiệp, kế hoạch hành động 7 ngày và khóa học dành cho chủ doanh nghiệp.
-- **[lyngochoa.vn](https://lyngochoa.vn)**: trang của coach Lý Ngọc Hoa về thương hiệu cá nhân, mạng xã hội và bán hàng cho môi giới; có khóa học, phản hồi và kết quả của học viên.
+- **[hocbatdongsan.vn](https://hocbatdongsan.vn)**: nền tảng đào tạo bất động sản gồm 4 học viện. Đã thấy trên trang công khai: danh mục khóa học, lộ trình nghề nghiệp, trang giảng viên, học theo dự án đang triển khai, tài khoản học viên (đăng ký, đăng nhập, "Khóa học của tôi"), trang chứng chỉ, và mục cơ hội nghề nghiệp có ứng tuyển.
+- **[bizmasi.vn](https://bizmasi.vn)**: Học viện Bizmasi, giải pháp quản trị cho doanh nghiệp. Đã thấy: danh mục khóa học, mục kiến thức, mục tư vấn (consulting), công cụ "Cây vận hành doanh nghiệp" (đánh giá vận hành và kế hoạch hành động 7 ngày), đăng nhập.
+- **[lyngochoa.vn](https://lyngochoa.vn)**: trang của coach Lý Ngọc Hoa về thương hiệu cá nhân, mạng xã hội và bán hàng cho môi giới. Đã thấy: danh mục khóa học và combo, coaching, đào tạo doanh nghiệp, sách, tài liệu miễn phí, case study, chính sách hoàn tiền, tài khoản học viên (đăng ký, đăng nhập).
+
+Các tính năng liệt kê ở trên là những gì **quan sát được từ bên ngoài**. Chưa xác minh được từ bên ngoài, nên **không nêu trên trang** cho tới khi bạn xác nhận: thanh toán SePay chạy ở trang nào, bài kiểm tra/quiz, lớp học trực tiếp, mức độ theo dõi tiến độ, và việc cấp chứng chỉ tự động (hocbatdongsan.vn có trang chứng chỉ nhưng chưa rõ cơ chế).
 
 **[CẦN BẠN ĐIỀN / XÁC NHẬN]** cho từng trang trước khi đăng: (1) bạn làm toàn bộ hay một phần, (2) tính năng LMS nào đang chạy thật (đăng nhập học viên, tiến độ, bài kiểm tra, chứng chỉ, thanh toán SePay), (3) khách có đồng ý được ghi tên và đặt link không, (4) con số kết quả nếu có (số học viên, số khóa, thời gian tiết kiệm). Không đăng tính năng hay con số chưa xác nhận.
 
