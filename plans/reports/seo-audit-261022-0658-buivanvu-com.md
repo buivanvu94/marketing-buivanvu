@@ -52,7 +52,7 @@ Lưu ý chiến lược: nhóm từ chung như "LMS là gì" có nhiều đơn v
 | Toàn site | Không có trang nào nhắm LMS, Next.js, hay chatbot AI | Nghiêm trọng | Tạo trang dịch vụ riêng (xem kế hoạch) |
 | `/tag/*` | Slug tag bị mất ký tự tiếng Việt (`chuyn-i-s`, `oanh-nghip-nh`, `ebsite-doanh-nghip`, `thit-k-website`, `o-gi-website`), trang tag vẫn `index, follow` và nằm trong sitemap | Cao | Sửa hàm tạo slug (giữ hoặc chuyển dấu thành ASCII đúng: `chuyen-doi-so`), chuyển hướng 301 slug cũ, và đặt `noindex` cho trang tag nếu mỗi tag chỉ có 1-2 bài |
 | `/category/blog` | Không có meta description | Trung bình | Viết mô tả riêng 150-160 ký tự |
-| Bài blog | Không có nút kêu gọi (Zalo/liên hệ) trong thân bài, chưa thấy khối liên kết sang trang dịch vụ | Cao | Thêm khối CTA cuối bài và liên kết trong bài tới trang dịch vụ liên quan |
+| Bài blog | Đã có khối CTA ở cột bên (link `/#lien-he`) nhưng chưa có kênh liên hệ trực tiếp (Zalo); cột bên nằm cuối trang trên điện thoại. Đính chính: bản đầu của báo cáo ghi nhầm là chưa có CTA | Trung bình | Thêm nút Zalo vào khối CTA (đã làm trong repo web), và chèn liên kết tới trang dịch vụ trong thân bài |
 | Trang chủ | 1 ảnh có `alt=""` | Thấp | Thêm alt mô tả (hoặc để rỗng nếu là ảnh trang trí, có chủ đích) |
 | Blog | Mới 3 bài, chưa có bài nào về LMS, chatbot, hay trung tâm đào tạo | Cao | Xem phần khoảng trống nội dung |
 | Trang chủ | Title 45 ký tự, mô tả 123 ký tự (dưới mức tối ưu 150-160) | Thấp | Kéo dài mô tả, thêm cụm "LMS" và "khóa học online" |
