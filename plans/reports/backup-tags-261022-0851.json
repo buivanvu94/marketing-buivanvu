@@ -1,0 +1,122 @@
+{
+ "takenAt": "2026-10-22T08:5x:00Z",
+ "note": "Backup before repairing tag names/slugs. Restore: PATCH /wp-json/wp/v2/tags/{id} {name,slug}; PUT /api/posts/{id} {tags:[ids]}.",
+ "tags": [
+  {
+   "id": "7cf625ee-c273-4a5d-a7ba-426e33f8ecba",
+   "name": "áo giá website",
+   "slug": "o-gi-website"
+  },
+  {
+   "id": "dbd7d0ac-47ae-4144-b43c-81c3aa8a1cc6",
+   "name": "chuyển đổi số",
+   "slug": "chuyn-i-s"
+  },
+  {
+   "id": "875d94f1-c47f-4fb0-975c-4da7062e82e8",
+   "name": "doanh nghiệp nhỏ",
+   "slug": "doanh-nghip-nh"
+  },
+  {
+   "id": "d3fd151e-32bf-43bd-9154-88988648b2b9",
+   "name": "ebsite doanh nghiệp",
+   "slug": "ebsite-doanh-nghip"
+  },
+  {
+   "id": "4642eee7-5524-40e0-832c-8c48f9ae31a0",
+   "name": "ERP",
+   "slug": "erp"
+  },
+  {
+   "id": "c61f9b5a-4697-4558-a74f-43811cd08584",
+   "name": "oanh nghiệp nhỏ",
+   "slug": "oanh-nghip-nh"
+  },
+  {
+   "id": "bb88904b-968d-4f18-9a4d-030b83ffa7aa",
+   "name": "thiết kế website",
+   "slug": "thit-k-website"
+  },
+  {
+   "id": "46b0a3d0-15b0-42ae-be12-0785e29e1ef6",
+   "name": "thu-flow",
+   "slug": "thu-flow"
+  }
+ ],
+ "postTags": [
+  {
+   "id": "0019e00f-ecb1-4d4b-a817-f2688b461f7f",
+   "slug": "chi-phi-lam-he-thong-lms",
+   "status": "draft",
+   "tags": []
+  },
+  {
+   "id": "2d3cdefa-192a-4782-93ab-c75c63b472be",
+   "slug": "dich-vu-thiet-ke-website-tron-goi",
+   "status": "published",
+   "tags": [
+    {
+     "id": "bb88904b-968d-4f18-9a4d-030b83ffa7aa",
+     "name": "thiết kế website",
+     "slug": "thit-k-website"
+    },
+    {
+     "id": "7cf625ee-c273-4a5d-a7ba-426e33f8ecba",
+     "name": "áo giá website",
+     "slug": "o-gi-website"
+    },
+    {
+     "id": "d3fd151e-32bf-43bd-9154-88988648b2b9",
+     "name": "ebsite doanh nghiệp",
+     "slug": "ebsite-doanh-nghip"
+    }
+   ]
+  },
+  {
+   "id": "6e0d8c00-bbbc-47f9-a256-363508f8a5fe",
+   "slug": "tu-dong-hoa-viec-lap-lai-doanh-nghiep-nho",
+   "status": "published",
+   "tags": []
+  },
+  {
+   "id": "e1f53f84-14b6-4a22-ac8a-5f20e138ab8c",
+   "slug": "thu-flow-chuoi-anh",
+   "status": "draft",
+   "tags": []
+  },
+  {
+   "id": "da542304-8873-48cd-8940-fc0e8cbb9d20",
+   "slug": "thu-flow-anh-dai-dien",
+   "status": "draft",
+   "tags": []
+  },
+  {
+   "id": "aeb57c1a-fada-485d-8319-048d09a1105b",
+   "slug": "thu-flow-kiem-tra-anh",
+   "status": "draft",
+   "tags": []
+  },
+  {
+   "id": "7921bbd4-ea14-4fce-91cb-96c0098dca13",
+   "slug": "erp-la-gi-doanh-nghiep-nho-co-can-khong",
+   "status": "published",
+   "tags": [
+    {
+     "id": "4642eee7-5524-40e0-832c-8c48f9ae31a0",
+     "name": "ERP",
+     "slug": "erp"
+    },
+    {
+     "id": "dbd7d0ac-47ae-4144-b43c-81c3aa8a1cc6",
+     "name": "chuyển đổi số",
+     "slug": "chuyn-i-s"
+    },
+    {
+     "id": "875d94f1-c47f-4fb0-975c-4da7062e82e8",
+     "name": "doanh nghiệp nhỏ",
+     "slug": "doanh-nghip-nh"
+    }
+   ]
+  }
+ ]
+}
