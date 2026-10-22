@@ -1,6 +1,6 @@
 # Bài blog 1 (bản nháp): Chi phí làm hệ thống LMS
 
-Trạng thái: bản nháp để duyệt, **chưa có con số giá**. Chỗ **[CẦN BẠN ĐIỀN]** là thông tin chỉ bạn có. Bài viết theo giọng các bài hiện có trên site: giải thích rõ, nói thẳng cả khi khách không cần thuê bạn.
+Trạng thái: bản nháp để duyệt, **không có con số giá (quyết định đã chốt: không công khai giá)**, nên bài này không còn mục nào cần bạn điền. Bài viết theo giọng các bài hiện có trên site: giải thích rõ, nói thẳng cả khi khách không cần thuê bạn.
 
 ## SEO
 
@@ -81,7 +81,7 @@ Không có cách nào "rẻ nhất" cho mọi trường hợp. Thuê bao rẻ l�
 
 Tôi báo giá theo phạm vi đã thống nhất bằng văn bản, nên bạn biết tổng chi phí trước khi bắt đầu. Công việc chia thành các đợt ngắn: sau mỗi đợt bạn dùng thử phần đã xong và góp ý. Yêu cầu phát sinh ngoài phạm vi, tôi báo giá riêng và chờ bạn đồng ý mới làm. Bàn giao gồm mã nguồn và tài liệu hướng dẫn.
 
-**[CẦN BẠN ĐIỀN]** Nếu bạn muốn công khai, thêm một đoạn "khoảng giá tham khảo" với 2–3 mức (ví dụ gói cơ bản, gói có thanh toán và lớp trực tiếp, gói đầy đủ) và nêu rõ mỗi mức gồm gì. Nếu không muốn ghi số, giữ nguyên đoạn trên.
+Tôi không niêm yết một bảng giá cố định, vì hai hệ thống LMS hiếm khi giống nhau. Bạn kể quy trình qua Zalo, tôi gửi bản phạm vi kèm báo giá để bạn so với các cách làm ở trên.
 
 ## Khi nào chưa cần làm riêng?
 

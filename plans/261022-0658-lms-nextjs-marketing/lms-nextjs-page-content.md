@@ -63,7 +63,7 @@ Nếu trung tâm bạn nhỏ và Moodle hoặc nền tảng có sẵn đã đủ
 
 ### Chi phí
 
-Tôi báo giá theo phạm vi đã thống nhất bằng văn bản, bạn biết tổng chi phí trước khi bắt đầu. **[CẦN BẠN ĐIỀN]** quyết định: ghi khoảng giá khởi điểm (ví dụ "từ ... đồng") hay chỉ ghi "theo phạm vi". Nếu ghi khoảng giá, nên kèm 2-3 yếu tố làm giá tăng giảm: số khóa học và học viên, thanh toán và tích hợp, lớp học trực tiếp, chatbot.
+Tôi báo giá theo phạm vi đã thống nhất bằng văn bản, bạn biết tổng chi phí trước khi bắt đầu. Giá phụ thuộc vào số khóa học và học viên, thanh toán và tích hợp, lớp học trực tiếp, và chatbot; bài [Chi phí làm hệ thống LMS](/chi-phi-lam-he-thong-lms) giải thích từng khoản. Bạn mô tả quy trình qua Zalo, tôi gửi bản phạm vi và báo giá trong thời gian sớm nhất. (Quyết định đã chốt: không công khai con số giá.)
 
 ### Dự án đã làm
 
@@ -98,7 +98,7 @@ Nút: **Nhắn Zalo cho Vũ** | **Gọi 0394 296 000** (thứ 2 đến thứ 7, 
 
 ## Việc cần làm để đưa trang lên
 
-1. Bạn điền các mục **[CẦN BẠN ĐIỀN]** và xác nhận các mục **[XÁC NHẬN]** (tính năng chưa chắc, thanh toán, giá).
-2. Tạo trang trong CMS (Admin → Pages) với slug `lms-nextjs`, dùng các section có sẵn (Hero, PainPoints, ServicesSolutions, WorkProcess, FaqAccordion, ClosingCta). Cách nhanh nhất là qua cổng MCP của CMS (`docs/mcp-gateway.md`), cần token API của bạn.
+1. Bạn điền các mục **[CẦN BẠN ĐIỀN]** còn lại (case study, link demo, cổng thanh toán) và xác nhận các mục **[XÁC NHẬN]** (chứng chỉ, điểm danh Zoom, chatbot). Giá đã chốt: không công khai.
+2. Tạo trang trong CMS (Admin → Pages) với slug `lms-nextjs`, dùng các section có sẵn (Hero, PainPoints, ServicesSolutions, WorkProcess, FaqAccordion, ClosingCta). Lưu ý: cổng MCP của CMS chỉ tạo được **bài nháp** (`cms_create_post_draft`) và sửa SEO, **không tạo được trang có section**, nên trang này tạo bằng Admin → Pages (hoặc API REST `/api/pages/[id]/sections` với token không có scope MCP).
 3. Thêm liên kết tới trang từ mục dịch vụ ở trang chủ và menu.
 4. Sau khi xuất bản, gửi URL vào Search Console để yêu cầu lập chỉ mục.
